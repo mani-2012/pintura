@@ -1,0 +1,13 @@
+body{
+    background-image: url(colores.png);
+    background-position: center;
+    background-size: cover;
+}
+#Canvas{
+    background-color: white;
+    border-right: 100px;
+    border-style: ridge;
+}
+h1{
+    color: rgb(240, 69, 69);
+}
